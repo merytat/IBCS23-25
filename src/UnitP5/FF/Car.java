@@ -4,7 +4,7 @@ public class Car extends Vehicle{ //1 mark
     private static double hourlyFee = 20000; //1 mark
 
     public Car(String registration){ //1 mark
-        super(registration); //1 mark
+        //super(registration); //1 mark
 
     }
 
